@@ -120,3 +120,6 @@ Identifier/identifiers_12.csv
 Identifier/identifiers_13.csv
 Embeddings/Allan_embd.csv
 Dual_core.csv
+Dual_sp_core.csv
+Embeddings/embedded_Pmid_e.csv
+Embeddings/Chem_sm_embd.csv
