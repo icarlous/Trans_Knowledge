@@ -134,3 +134,13 @@ Dual_sp_core.csv
 Embeddings/embedded_Pmid_e.csv
 Embeddings/Chem_sm_embd.csv
 *.csv
+PubMed/pubmed_portions_rev/pubmed_CTD_0.json
+PubMed/pubmed_portions_rev/pubmed_CTD_1.json
+PubMed/pubmed_portions_rev/pubmed_CTD_2.json
+PubMed/pubmed_portions_rev/pubmed_CTD_3.json
+PubMed/pubmed_portions_rev/pubmed_CTD_4.json
+PubMed/pubmed_portions_rev/pubmed_CTD_5.json
+PubMed/pubmed_portions_rev/pubmed_CTD_6.json
+PubMed/pubmed_portions_rev/pubmed_CTD_7.json
+PubMed/pubmed_portions_rev/pubmed_CTD_8.json
+Dual_sp_core.csv
